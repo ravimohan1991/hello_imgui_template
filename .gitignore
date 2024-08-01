@@ -1,3 +1,7 @@
 build*/
 cmake-build-*/
 external/
+
+KarmaiOSLightHouse/
+
+.DS_Store

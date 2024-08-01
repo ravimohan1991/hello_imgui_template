@@ -24,8 +24,8 @@ endif()
 #     find_package(hello-imgui CONFIG REQUIRED)
 
 
-# Build your app
-# ==============
+# Build your application
+# ======================
 hello_imgui_add_app(hello_world_ hello_world.main.cpp)
 
 
