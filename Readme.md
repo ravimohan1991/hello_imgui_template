@@ -1,3 +1,6 @@
+
+![IMG_0030](https://github.com/user-attachments/assets/9b3fe128-a9f4-4319-9139-5bc4606250eb)
+
 # hello_imgui_template: get started with HelloImGui in 5 minutes 
 
 This template demonstrates how to easily integrate HelloImGui to your own project. 
