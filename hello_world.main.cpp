@@ -10,7 +10,7 @@ int main(int , char *[])
 		ImGui::ShowDemoWindow(&show);
 		
 		HelloImGui::ImageFromAsset("world.jpg");   // Display a static image
-		if (ImGui::Button("Bye!"))                 // Display a button
+		if (ImGui::Button("sayonara!"))                 // Display a button
 		{
 			// and immediately handle its action if it is clicked!
 			HelloImGui::GetRunnerParams()->appShallExit = true;
